@@ -1,0 +1,25 @@
+---
+layout: post
+title:  "On Debt[1]: Domestic Debt, Foreign Debt, Taxation and \"Population\""
+date:   2024-02-17 21:08:35 +0800
+categories: fp article translation test
+---
+
+This content, originally published on a WeChat Public Account on Nov 3, 2023, has been translated to this site purely for practice purposes. It has not been proofread, so it may contain various errors. Assistance from ChatGPT-4 was utilized during the translation process, and gratitude is extended to both the original author and ChatGPT.
+
+## Introduction
+A common phrase on many people's lips lately is "domestic debt is not debt," which reminds me of the full saying often quoted by the older generation during my childhood: "The first couplet: Debt is not debt; and the second couplet: As long as people remain; the horizontal inscription: Debt dies with the debtor." However, most people currently focus only on the "domestic debt is not debt" part, overlooking the crucial "as long as people remain" segment. This seems to give some the impression that debt can be expanded indefinitely, but in reality, the key constraint lies in the latter part. If the second half is not mentioned, it can lead to a huge misunderstanding.
+
+--Fu Peng, Chief Economist at Northeast Securities
+
+## Debt is not debt, as long as people remain
+
+The older generation, particularly those from my parents' era who were early pioneers in the financial sector, gathered profound insights over their careers. They had a penchant for distilling these insights into "couplets", making them easily memorable for children. These couplets, brimming with wisdom, made a lasting impact on me in my youth. While the deeper philosophical meanings eluded me then, they offered endless food for thought as I matured. 
+
+One couplet that resonated deeply with me goes as follows: "The upper line: Only to embellish when times are good; The lower line: Never to aid in times of need; The side note: The banker." This couplet incisively captures the essence of the financial industry and embodies the banker's ethos.
+
+A common phrase on many people's lips lately is "domestic debt is not debt," which reminds me of the full saying often quoted by the older generation during my childhood: "The first couplet: Debt is not debt; and the second couplet: As long as people remain; the horizontal inscription: Debt dies with the debtor." However, most people currently focus only on the "domestic debt is not debt" part, overlooking the crucial "as long as people remain" segment. This seems to give some the impression that debt can be expanded indefinitely, but in reality, the key constraint lies in the latter part. If the second half is not mentioned, it can lead to a huge misunderstanding.
+
+Every form of debt is fundamentally linked to income, with the unique capacity of the household sector to drive genuine income growth through both physical and intellectual labor. For all other sectors, their purported income generation ability essentially boils down to the power to "levy taxes."
+
+Thus, the ability to incur debt mirrors the power to impose taxes. When it comes to domestic debt, its intrinsic value mainly pertains to issuers within the national currency domain, namely, the country's government. On the other hand, foreign debt entails engagements where domestic parties borrow from entities abroad. Regardless of the debt's nature, its essence is anchored in the lending government's jurisdiction over its tax collection prowess.
